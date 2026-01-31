@@ -1,0 +1,35 @@
+"""
+Requirements for Financial Q&A System
+Python packages needed for the project
+"""
+
+# Core LLM & RAG Framework
+groq==0.11.0
+langchain==0.1.0
+langchain-community==0.0.38
+langchain-groq==0.0.1
+
+# Embeddings (Local - No API key needed)
+sentence-transformers==2.3.1
+
+# Vector Store
+faiss-cpu==1.7.4
+
+# PDF Processing
+pypdf2==3.0.1
+
+# API Integration
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.4
+
+# Jupyter Notebook
+jupyter==1.0.0
+ipykernel==6.29.0
+ipywidgets==8.1.1
+
+# Utilities
+tqdm==4.66.1
