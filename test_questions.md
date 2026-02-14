@@ -243,9 +243,6 @@ Would you like to compare Amazon's or Uber's historical revenue with current pri
 - [ ] All Problem 3 questions successfully fetch real-time data
 - [ ] System handles edge cases gracefully
 - [ ] All responses include proper citations/sources
-- [ ] No data mixing between companies or years
-- [ ] API calls are successful and rate-limited appropriately
-- [ ] Error messages are clear and helpful
 
 ---
 
